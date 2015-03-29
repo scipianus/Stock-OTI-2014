@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\VS_C_06\Bursa_Nume_Prenume\Bursa_Nume_Prenume\bin\Debug\Bursa_Nume_Prenume.exe.config
+C:\Users\Administrator\Desktop\VS_C_06\Bursa_Nume_Prenume\Bursa_Nume_Prenume\bin\Debug\Bursa_Nume_Prenume.exe
+C:\Users\Administrator\Desktop\VS_C_06\Bursa_Nume_Prenume\Bursa_Nume_Prenume\bin\Debug\Bursa_Nume_Prenume.pdb
+C:\Users\Administrator\Desktop\VS_C_06\Bursa_Nume_Prenume\Bursa_Nume_Prenume\obj\Debug\Bursa_Nume_Prenume.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\VS_C_06\Bursa_Nume_Prenume\Bursa_Nume_Prenume\obj\Debug\Bursa_Nume_Prenume.Form1.resources
+C:\Users\Administrator\Desktop\VS_C_06\Bursa_Nume_Prenume\Bursa_Nume_Prenume\obj\Debug\Bursa_Nume_Prenume.Properties.Resources.resources
+C:\Users\Administrator\Desktop\VS_C_06\Bursa_Nume_Prenume\Bursa_Nume_Prenume\obj\Debug\Bursa_Nume_Prenume.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\VS_C_06\Bursa_Nume_Prenume\Bursa_Nume_Prenume\obj\Debug\Bursa_Nume_Prenume.exe
+C:\Users\Administrator\Desktop\VS_C_06\Bursa_Nume_Prenume\Bursa_Nume_Prenume\obj\Debug\Bursa_Nume_Prenume.pdb
+C:\Users\Administrator\Desktop\VS_C_06\Bursa_Nume_Prenume\Bursa_Nume_Prenume\bin\Debug\DBBursa.sdf
+C:\Users\Administrator\Desktop\VS_C_06\Bursa_Nume_Prenume\Bursa_Nume_Prenume\obj\Debug\Bursa_Nume_Prenume.Form2.resources
+C:\Users\Administrator\Desktop\VS_C_06\Bursa_Nume_Prenume\Bursa_Nume_Prenume\obj\Debug\Bursa_Nume_Prenume.Form3.resources
